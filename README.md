@@ -19,4 +19,10 @@ Currently, we are planning to use LLaMA, a publicly available open-source large 
 6. As output, LLaMA will generate a natural response. 
 
 # Testing
-Since this is a chatbot, we can test this model by directly typing into the chatbot. We can prepare several prompts about gender-based violence support services, including legal help, counselling, housing, and child support. For example, if a user asks for a ‘place to stay overnight in Burnaby’, the example output could be ‘If you’re in immediate danger, please call 911 or VictimLinkBC at 1-800-563-0808. In Burnaby, you can contact Ishtar Women’s Resource Society at 604-936-8710 or Dixon Transition Society at 604-298-3454 for 24-hour shelter and counselling support.”
+Since this is a chatbot, we can test this model by directly typing into the chatbot. We can prepare several prompts about gender-based violence support services, including legal help, counselling, housing, and child support. 
+
+## Example Conversation
+- User: place to stay overnight
+- Chatbot: I see that you need a temporary housing, such as a transition house. Could you please tell me for which city are you looking for this? Please note that my responses are limited for Metro Vancouver, BC, Canada.
+- User: burnaby
+- Chatbot: If you’re in immediate danger, please call 911 or VictimLinkBC at 1-800-563-0808. In Burnaby, you can contact Ishtar Women’s Resource Society at 604-936-8710 or Dixon Transition Society at 604-298-3454 for 24-hour shelter and counselling support.
