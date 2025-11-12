@@ -14,7 +14,7 @@ Currently, we are planning to use LLaMA, a publicly available open-source large 
 2. Use an embedding model to convert data into numerical embeddings capturing semantic meaning.
 3. Export and save these embeddings into a database.
 4. When the user types in a question to the chatbot, their questions will be treated as input ‘features’.
-⋅⋅⋅⋅* The features will also be converted into text embeddings using the embedding model.
+   - The features will also be converted into text embeddings using the embedding model.
 5. Finally, the system will search the database for the most semantically similar values.
 6. As output, LLaMA will generate a natural response. 
 
