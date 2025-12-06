@@ -1,0 +1,8 @@
+gradio
+pandas
+numpy
+torch
+transformers
+accelerate
+sentence-transformers
+spaces
