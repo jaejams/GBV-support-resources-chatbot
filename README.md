@@ -2,6 +2,9 @@
 
 This is a real-time RAG-based conversation agent, utilizing an existing large language model to create a response in natural language. Specifically, we aim to create a chatbot that provides **gender-based violence (GBV) support resources** in **Metro Vancouver, BC** based on a local dataset. 
 
+# Deployed Chatbot
+Deployed chatbot can be found here: https://huggingface.co/spaces/happy2je/OneTapAwayGBVResourceChatbot
+
 ## Context
 When Jae Eun Kim, one of the team members, worked as a victim support worker for women exposed to violence at a local charity, she felt that accessing relevant service information (e.g. as phone numbers and operating hours for mental health centres) was often too inaccessible for young individuals, especially when it required making phone calls. 
 
